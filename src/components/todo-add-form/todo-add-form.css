@@ -1,0 +1,16 @@
+.bottom-panel {
+	display: block;
+	margin-top: 20px;
+}
+
+.bottom-panel .new-post-label {
+	width: auto;
+	flex-grow: 1;
+	margin-right: 3px;
+	margin-bottom: 10px;
+}
+
+.detail {
+	display: block;
+	width: 100%;
+}

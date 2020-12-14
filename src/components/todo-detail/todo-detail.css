@@ -1,0 +1,19 @@
+/* .block {
+	border: 20px solid lightblue;
+	background-color: lightblue;
+	border-radius: 15px;
+	display: flex;
+	margin: 80px 60px 20px;
+	/* justify-content: center; */
+/* align-items: center; */
+/* height: 200px; */
+/* } */
+
+.detail {
+	padding: 15px;
+	border-radius: 5px;
+	background-color: #eaf5fc;
+	border: 1px solid rebeccapurple;
+	width: 100%;
+	height: 100%;
+}
